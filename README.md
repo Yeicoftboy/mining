@@ -1,9 +1,7 @@
-# ethereum-quickstart
-Ethereum mining clients, tools and scripts
+# ethereum-full-mining
 
-clients:
-- ethminer 0.18
-- phoenixminer 5.1c
 
-tools:
-- amdvbflash 4.69 (atiflash)
+2 programas Preconfigurados. 
+
+# Configuracion
+edite los archivos .sh y agregue su billetera y grupo de minado.
